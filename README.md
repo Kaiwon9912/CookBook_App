@@ -1,4 +1,6 @@
-🍽️ Dungeon Meshi
+
+
+<h1>🍽️ Dungeon Meshi</h1>
 Dungeon Meshi is a cooking app inspired by the manga series "Dungeon Meshi." Dive into the world of fantasy cooking and explore various recipes that you can try out at home. Whether you're a fan of the series or just love cooking, this app brings the magic of dungeon culinary adventures to your kitchen!
 
 🖼️ Screenshots
@@ -53,18 +55,18 @@ Favorites
 
 
 
-🌟 Features
-Recipe Search: Discover new recipes using the powerful search functionality.
-Detailed Recipe Information: Get comprehensive details about ingredients, steps, and more.
-Favorites: Save your favorite recipes for quick access.
-Offline Access: Access saved recipes even without an internet connection.
-📚 Usage
-Explore Recipes: Browse through a wide variety of recipes inspired by "Dungeon Meshi."
-Search Recipes: Use the search bar to find specific recipes or ingredients.
-View Recipe Details: Click on a recipe to see detailed information, including ingredients, instructions, and images.
-Save Favorites: Tap the favorite icon to save recipes to your favorites list for easy access later.
-🌐 API Integration
+<h2>🌟 Features</h2>
+<p>Recipe Search: Discover new recipes using the powerful search functionality.</p>
+<p>Detailed Recipe Information: Get comprehensive details about ingredients, steps, and more.</p>
+<p>Favorites: Save your favorite recipes for quick access.</p>
+<p>Offline Access: Access saved recipes even without an internet connection.</p>
+<h2>📚 Usage</h2>
+<p>Explore Recipes: Browse through a wide variety of recipes inspired by "Dungeon Meshi."</p>
+<p>Search Recipes: Use the search bar to find specific recipes or ingredients.</p>
+<p>View Recipe Details: Click on a recipe to see detailed information, including ingredients, instructions, and images.</p>
+<p>Save Favorites: Tap the favorite icon to save recipes to your favorites list for easy access later.</p>
+<h2>🌐 API Integration</h2>
 Dungeon Meshi leverages TheMealDB API to fetch a rich collection of recipes. Ensure you have a stable internet connection for fetching recipes online.
 
-📦 Local Data Storage
+<h2>📦 Local Data Storage</h2>
 We use Hive.Box for local storage, ensuring that your saved recipes and preferences are securely stored on your device.
