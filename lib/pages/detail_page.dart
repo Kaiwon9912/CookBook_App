@@ -153,12 +153,15 @@ class _DetailPageState extends State<DetailPage> {
                                                     )
                                                   ]),
                                             ),
-                                            Container(
-                                              height: 450,
-                                              padding: EdgeInsets.all(25),
+                                            Expanded(
+
+
                                               child: SingleChildScrollView(
-                                                child: Text(
-                                                    meal.strInstructions ?? ""),
+                                                child: Padding(
+                                                  padding: const EdgeInsets.only(top: 15,left: 25,right: 25,bottom: 10),
+                                                  child: Text(
+                                                      meal.strInstructions ?? ""),
+                                                ),
                                               ),
                                             ),
                                           ],
